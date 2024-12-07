@@ -12,5 +12,3 @@ cd dashboard
 
 Run streamlit app
 streamlit run dashboard.py
-
-Note: punya saya bisa berjalan dengan baik
